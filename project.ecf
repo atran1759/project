@@ -8,7 +8,7 @@
 		<setting name="console_application" value="true"/>
 		<precompile name="base_pre" location="$ISE_PRECOMP\base-safe.ecf"/>
 		<library name="base" location="$ISE_LIBRARY\library\base\base-safe.ecf"/>
-		<library name="random" location="C:\Users\atran\Documents\Eiffel User Files\14.05\projects\random\random.ecf"/>
+		<library name="random" location="C:\Users\atran\Documents\GitHub\random\random.ecf"/>
 		<library name="testing" location="$ISE_LIBRARY\library\testing\testing-safe.ecf"/>
 		<cluster name="project" location=".\" recursive="true">
 			<file_rule>
